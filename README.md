@@ -31,4 +31,5 @@ curl -s "https://get.sdkman.io?rcupdate=false" | zsh
 ```
 
 ## How To Manage Your Own Dotfiles
-I use the *git bare repository method* for managing my dotfiles. Here is an article about this method of managing your dotfiles: [[https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/][https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/]]
+I use the *git bare repository method* for managing my dotfiles. Here is an article about this method of managing your dotfiles: 
+https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
