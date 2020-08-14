@@ -1,0 +1,11 @@
+#!/bin/sh
+# Work
+alias tasnode='ssh root@10.74.73.248'
+alias ftnode='ssh root@10.74.70.154'
+# Git
+alias gl="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+# Files
+alias l="ls -o -hX --group-directories-first"
+alias ll="ls -o -AhX --group-directories-first"
+# bare git repo alias for dotfiles
+alias config='/usr/bin/git --git-dir=/home/krix/.dotfiles/ --work-tree=/home/krix'
